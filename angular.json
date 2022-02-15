@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Angular-test"
+  "defaultProject": "Angular-test",
+  "cli": {
+    "analytics": false
+  }
 }
